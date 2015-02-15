@@ -1,0 +1,754 @@
+Kodiak,AK,57,45' N,152,29' W
+Juneau,AK,58,22' N,134,35' W
+Anchorage,AK,61,10' N,150,1' W
+Fairbanks,AK,64,49' N,147,52' W
+Nome,AK,64,30' N,165,26' W
+Barrow,AK,71,18' N,156,47' W
+Mobile,AL,30,41' N,88,15' W
+Mobile Co,AL,30,40' N,88,15' W
+Dothan,AL,31,19' N,85,27' W
+Alexander City,AL,32,57' N,85,57' W
+Auburn,AL,32,36' N,85,30' W
+Montgomery,AL,32,23' N,86,22' W
+Selma-Craig,AL,32,20' N,87,59' W
+Anniston,AL,33,35' N,85,51' W
+Birmingham,AL,33,34' N,86,45' W
+Talladega,AL,33,27' N,86,6' W
+Tuscaloosa,AL,33,13' N,87,37' W
+Decatur,AL,34,37' N,86,59' W
+Florence,AL,34,48' N,87,40' W
+Gadsden,AL,34,1' N,86,0' W
+Huntsville,AL,34,42' N,86,35' W
+Camden,AR,33,36' N,92,49' W
+El Dorado,AR,33,13' N,92,49' W
+Texarkana,AR,33,27' N,93,59' W
+Hot Springs,AR,34,29' N,93,6' W
+Little Rock,AR,34,44' N,92,14' W
+Pine Bluff,AR,34,18' N,92,5' W
+Blytheville,AR,35,57' N,89,57' W
+Fort Smith,AR,35,20' N,94,22' W
+Jonesboro,AR,35,50' N,90,42' W
+Fayetteville,AR,36,0' N,94,10' W
+Douglas,AZ,31,27' N,109,36' W
+Fort Huachuca,AZ,31,35' N,110,20' W
+Nogales,AZ,31,21' N,110,55' W
+Tucson,AZ,32,7' N,110,56' W
+Yuma,AZ,32,39' N,114,37' W
+Phoenix,AZ,33,26' N,112,1' W
+Prescott,AZ,34,39' N,112,26' W
+Flagstaff,AZ,35,8' N,111,40' W
+Kingman,AZ,35,12' N,114,1' W
+Winslow,AZ,35,1' N,110,44' W
+El Cajon,CA,32,49' N,116,58' W
+El Cerrito,CA,32,49' N,115,40' W
+San Diego,CA,32,44' N,117,10' W
+Blythe,CA,33,37' N,114,43' W
+Downey,CA,33,56' N,118,8' W
+Escondido,CA,33,7' N,117,5' W
+Laguna Beach,CA,33,33' N,117,47' W
+Long Beach,CA,33,49' N,118,9' W
+Los Angeles,CA,33,56' N,118,24' W
+Oceanside,CA,33,14' N,117,25' W
+Palm Springs,CA,33,49' N,116,32' W
+Riverside-March,CA,33,54' N,117,15' W
+Santa Ana,CA,33,45' N,117,52' W
+Barstow,CA,34,51' N,116,47' W
+Burbank,CA,34,12' N,118,21' W
+Covina,CA,34,5' N,117,52' W
+"Lompoc, Vandenberg",CA,34,43' N,120,34' W
+Los Angeles CO,CA,34,3' N,118,14' W
+Needles,CA,34,36' N,114,37' W
+Ontario,CA,34,3' N,117,36' W
+Oxnard,CA,34,12' N,119,11' W
+Palmdale,CA,34,38' N,118,6' W
+Pasadena,CA,34,9' N,118,9' W
+Pomona Co,CA,34,3' N,117,45' W
+Redlands,CA,34,3' N,117,11' W
+"San Bernadino, Norton",CA,34,8' N,117,16' W
+San Fernando,CA,34,17' N,118,28' W
+Santa Barbara MAP,CA,34,26' N,119,50' W
+Santa Maria,CA,34,54' N,120,27' W
+Santa Monica CIC,CA,34,1' N,118,29' W
+Santa Paula,CA,34,21' N,119,5' W
+Bakersfield,CA,35,25' N,119,3' W
+San Louis Obispo,CA,35,20' N,120,43' W
+Fresno,CA,36,46' N,119,43' W
+Monterey,CA,36,36' N,121,54' W
+Salinas,CA,36,40' N,121,36' W
+Santa Cruz,CA,36,59' N,122,1' W
+Visalia,CA,36,20' N,119,18' W
+Concord,CA,37,58' N,121,59' W
+Livermore,CA,37,42' N,121,57' W
+Merced-Castle,CA,37,23' N,120,34' W
+Modesto,CA,37,39' N,121,0' W
+Oakland,CA,37,49' N,122,19' W
+Richmond,CA,37,56' N,122,21' W
+San Francisco,CA,37,37' N,122,23' W
+San Francisco Co,CA,37,46' N,122,26' W
+San Jose,CA,37,22' N,121,56' W
+Stockton,CA,37,54' N,121,15' W
+Fairfield-Trafis,CA,38,16' N,121,56' W
+Hamilton,CA,38,4' N,122,30' W
+Napa,CA,38,13' N,122,17' W
+Petaluma,CA,38,14' N,122,38' W
+Sacramento,CA,38,31' N,121,30' W
+Santa Rosa,CA,38,31' N,122,49' W
+Chico,CA,39,48' N,121,51' W
+Ukiah,CA,39,9' N,123,12' W
+Yuba City,CA,39,8' N,121,36' W
+Eureka/Arcata,CA,40,59' N,124,6' W
+Redding,CA,40,31' N,122,18' W
+Crescent City,CA,41,46' N,124,12' W
+Yreka,CA,41,43' N,122,38' W
+Alamosa,CO,37,27' N,105,52' W
+Durango,CO,37,17' N,107,53' W
+Trinidad,CO,37,15' N,104,20' W
+Colorado Springs,CO,38,49' N,104,43' W
+Lajunta,CO,38,3' N,103,30' W
+Pueblo,CO,38,18' N,104,29' W
+Denver,CO,39,45' N,104,52' W
+Grand Junction,CO,39,7' N,108,32' W
+Leadville,CO,39,15' N,106,18' W
+Boulder,CO,40,0' N,105,16' W
+Fort Collins,CO,40,45' N,105,5' W
+Greeley,CO,40,26' N,104,38' W
+Sterling,CO,40,37' N,103,12' W
+Bridgeport,CT,41,11' N,73,11' W
+"Hartford, Brainard Field",CT,41,44' N,72,39' W
+New Haven,CT,41,19' N,73,55' W
+New London,CT,41,21' N,72,6' W
+Norwalk,CT,41,7' N,73,25' W
+Norwick,CT,41,32' N,72,4' W
+Waterbury,CT,41,35' N,73,4' W
+"Widsor Locks, Bradley Fld",CT,41,56' N,72,41' W
+Dover,DE,39,8' N,75,28' W
+Wilmington,DE,39,40' N,75,36' W
+Key West,FL,24,33' N,81,45' W
+Miami,FL,25,48' N,80,16' W
+Miami Beach Co,FL,25,47' N,80,17' W
+Belle Glade,FL,26,39' N,80,39' W
+E Fort Lauderdale,FL,26,4' N,80,9' W
+Fort Myers,FL,26,35' N,81,52' W
+West Palm Beach,FL,26,41' N,80,6' W
+Fort Pierce,FL,27,28' N,80,21' W
+St. Petersburg,FL,27,46' N,82,80' W
+Sarasota,FL,27,23' N,82,33' W
+Tampa,FL,27,58' N,82,32' W
+Cape Kennedy,FL,28,29' N,80,34' W
+Lakeland Co,FL,28,2' N,81,57' W
+Orlando,FL,28,33' N,81,23' W
+Stanford,FL,28,46' N,81,17' W
+Daytona Beach,FL,29,11' N,81,3' W
+Gainsville,FL,29,41' N,82,16' W
+Ocala,FL,29,11' N,82,8' W
+St. Augustine,FL,29,58' N,81,20' W
+Jacksonville,FL,30,30' N,81,42' W
+"Panama City, Tyndall",FL,30,4' N,85,35' W
+Pensacola Co,FL,30,25' N,87,13' W
+Tallahassee,FL,30,23' N,84,22' W
+Valdosta-Moody,GA,30,58' N,83,12' W
+"Albany, Turner",GA,31,36' N,84,5' W
+Brunswick,GA,31,15' N,81,29' W
+Waycross,GA,31,15' N,82,24' W
+Americus,GA,32,3' N,84,14' W
+"Columbus, Lawson",GA,32,31' N,84,56' W
+Dublin,GA,32,20' N,82,54' W
+Macon,GA,32,42' N,83,39' W
+Savannah,GA,32,8' N,81,12' W
+Athens,GA,33,57' N,83,19' W
+Atlanta,GA,33,39' N,84,26' W
+Augusta,GA,33,22' N,81,58' W
+Griffin,GA,33,13' N,84,16' W
+LaGrange,GA,33,1' N,85,4' W
+"Marietta, Dobbins",GA,33,55' N,84,31' W
+Dalton,GA,34,34' N,84,57' W
+Gainsville,GA,34,11' N,83,41' W
+Hilo,HI,19,43' N,155,5' W
+Honolulu,HI,21,20' N,157,55' W
+Kaneohe Bay MCAS,HI,21,27' N,157,46' W
+Wahiawa,HI,21,3' N,158,2' W
+Burlington,IA,40,47' N,91,7' W
+Keokuk,IA,40,24' N,91,24' W
+Cedar Rapids,IA,41,53' N,91,42' W
+Clinton,IA,41,50' N,90,13' W
+Council Bluffs,IA,41,20' N,95,49' W
+Des Moines,IA,41,32' N,93,39' W
+Iowa City,IA,41,38' N,91,33' W
+Newton,IA,41,41' N,93,2' W
+Ottumwa,IA,41,6' N,92,27' W
+Ames,IA,42,2' N,93,48' W
+Dubuque,IA,42,24' N,90,42' W
+Fort Dodge,IA,42,33' N,94,11' W
+Marshalltown,IA,42,4' N,92,56' W
+Sioux City,IA,42,24' N,96,23' W
+Waterloo,IA,42,33' N,92,24' W
+Mason City,IA,43,9' N,93,20' W
+Burley,ID,42,32' N,113,46' W
+Pocatello,ID,42,55' N,112,36' W
+Twin Falls,ID,42,29' N,114,29' W
+Boise,ID,43,34' N,116,13' W
+Idaho Falls,ID,43,31' N,112,4' W
+Mountain Home,ID,43,2' N,115,54' W
+Lewiston,ID,46,23' N,117,1' W
+Moscow,ID,46,44' N,116,58' W
+Coeur D'Alene,ID,47,46' N,116,49' W
+Carbondale,IL,37,47' N,89,15' W
+"Belleville, Scott",IL,38,33' N,89,51' W
+Greenville,IL,38,53' N,89,24' W
+Mt Vernon,IL,38,19' N,88,52' W
+Decatur,IL,39,50' N,88,52' W
+Quincy,IL,39,57' N,91,12' W
+Springfield,IL,39,50' N,89,40' W
+Bloomington,IL,40,29' N,88,57' W
+Champaign/Urbana,IL,40,2' N,88,17' W
+Danville,IL,40,12' N,87,36' W
+Galesburg,IL,40,56' N,90,26' W
+Macomb,IL,40,28' N,90,40' W
+Peoria,IL,40,40' N,89,41' W
+"Rantoul, Chanute",IL,40,18' N,88,8' W
+Aurora,IL,41,45' N,88,20' W
+"Chicago, Midway",IL,41,47' N,87,45' W
+"Chicago, O'Hare",IL,41,59' N,87,54' W
+Chicago Co,IL,41,53' N,87,38' W
+Dixon,IL,41,50' N,89,29' W
+Joliet,IL,41,31' N,88,10' W
+Kankakee,IL,41,5' N,87,55' W
+La Salle/Peru,IL,41,19' N,89,6' W
+Moline,IL,41,27' N,90,31' W
+Elgin,IL,42,2' N,88,16' W
+Freeport,IL,42,18' N,89,37' W
+Rockford,IL,42,21' N,89,3' W
+Waukegan,IL,42,21' N,87,53' W
+Bedford,IN,38,51' N,86,30' W
+Evansville,IN,38,3' N,87,32' W
+Jeffersonville,IN,38,17' N,85,45' W
+Vincennes,IN,38,41' N,87,32' W
+Bloomington,IN,39,8' N,86,37' W
+"Columbus, Bakalar",IN,39,16' N,85,54' W
+Indianapolis,IN,39,44' N,86,17' W
+Richmond,IN,39,46' N,84,50' W
+Shelbyville,IN,39,31' N,85,47' W
+Terre Haute,IN,39,27' N,87,18' W
+Anderson,IN,40,6' N,85,37' W
+Crawfordsville,IN,40,3' N,86,54' W
+Huntington,IN,40,53' N,85,30' W
+Kokomo,IN,40,25' N,86,3' W
+Lafayette,IN,40,2' N,86,5' W
+Marion,IN,40,29' N,85,41' W
+Muncie,IN,40,11' N,85,21' W
+"Peru, Grissom",IN,40,39' N,86,9' W
+Fort Wayne,IN,41,0' N,85,12' W
+Goshen,IN,41,32' N,85,48' W
+Hobart,IN,41,32' N,87,15' W
+La Porte,IN,41,36' N,86,43' W
+South Bend,IN,41,42' N,86,19' W
+Valparaiso,IN,41,31' N,87,2' W
+Chanute,KS,37,40' N,95,29' W
+Dodge City,KS,37,46' N,99,58' W
+El Dorado,KS,37,49' N,96,50' W
+Garden City,KS,37,56' N,100,44' W
+Liberal,KS,37,3' N,100,58' W
+Parsons,KS,37,20' N,95,31' W
+Wichita,KS,37,39' N,97,25' W
+Emporia,KS,38,20' N,96,12' W
+Great Bend,KS,38,21' N,98,52' W
+Hutchinson,KS,38,4' N,97,52' W
+Russell,KS,38,52' N,98,49' W
+Salina,KS,38,48' N,97,39' W
+Atchison,KS,39,34' N,95,7' W
+Goodland,KS,39,22' N,101,42' W
+"Manhattan, Ft Riley",KS,39,3' N,96,46' W
+Topeka,KS,39,4' N,95,38' W
+Bowling Green,KY,35,58' N,86,28' W
+Corbin,KY,36,57' N,84,6' W
+"Hopkinsville, Ft Campbell",KY,36,40' N,87,29' W
+Madisonville,KY,37,19' N,87,29' W
+Owensboro,KY,37,45' N,87,10' W
+Paducah,KY,37,4' N,88,46' W
+Ashland,KY,38,33' N,82,44' W
+Lexington,KY,38,2' N,84,36' W
+Louisville,KY,38,11' N,85,44' W
+Covington,KY,39,3' N,84,40' W
+Houma,LA,29,31' N,90,40' W
+New Orleans,LA,29,59' N,90,15' W
+Baton Rouge,LA,30,32' N,91,9' W
+Bogalusa,LA,30,47' N,89,52' W
+Lafayette,LA,30,12' N,92,0' W
+Lake Charles,LA,30,7' N,93,13' W
+Alexandria,LA,31,24' N,92,18' W
+Natchitoches,LA,31,46' N,93,5' W
+Minden,LA,32,36' N,93,18' W
+Monroe,LA,32,31' N,92,2' W
+Shreveport,LA,32,28' N,93,49' W
+Fall River,MA,41,43' N,71,8' W
+New Bedford,MA,41,41' N,70,58' W
+Taunton,MA,41,54' N,71,4' W
+Boston,MA,42,22' N,71,2' W
+Clinton,MA,42,24' N,71,41' W
+Framingham,MA,42,17' N,71,25' W
+Gloucester,MA,42,35' N,70,41' W
+Greenfield,MA,42,3' N,72,4' W
+Lawrence,MA,42,42' N,71,10' W
+Lowell,MA,42,39' N,71,19' W
+Pittsfield,MA,42,26' N,73,18' W
+"Springfield, Westover",MA,42,12' N,72,32' W
+Worcester,MA,42,16' N,71,52' W
+Salisbury,MD,38,20' N,75,30' W
+Baltimore,MD,39,11' N,76,40' W
+Baltimore Co,MD,39,20' N,76,25' W
+Cumberland,MD,39,37' N,78,46' W
+Frederick,MD,39,27' N,77,25' W
+Hagerstown,MD,39,42' N,77,44' W
+Portland,ME,43,39' N,70,19' W
+Augusta,ME,44,19' N,69,48' W
+"Bangor, Dow",ME,44,48' N,68,50' W
+Lewiston,ME,44,2' N,70,15' W
+Waterville,ME,44,32' N,69,40' W
+Millinocket,ME,45,39' N,68,42' W
+Caribou,ME,46,52' N,68,1' W
+Adrian,MI,41,55' N,84,1' W
+Battle Creek,MI,42,19' N,85,15' W
+Benton Harbor,MI,42,8' N,86,26' W
+Detroit,MI,42,25' N,83,1' W
+Flint,MI,42,58' N,83,44' W
+Grand Rapids,MI,42,53' N,85,31' W
+Holland,MI,42,42' N,86,6' W
+Jackson,MI,42,16' N,84,28' W
+Kalamazoo,MI,42,17' N,85,36' W
+Lansing,MI,42,47' N,84,36' W
+Pontiac,MI,42,40' N,83,25' W
+Port Huron,MI,42,59' N,82,25' W
+Ypsilanti,MI,42,14' N,83,32' W
+Mt Pleasant,MI,43,35' N,84,46' W
+Muskegon,MI,43,10' N,86,14' W
+Saginaw,MI,43,32' N,84,5' W
+Traverse City,MI,44,45' N,85,35' W
+Alpena,MI,45,4' N,83,26' W
+Escanaba,MI,45,44' N,87,5' W
+Marquette Co,MI,46,34' N,87,24' W
+Sault Ste. Marie,MI,46,28' N,84,22' W
+Albert Lea,MN,43,39' N,93,21' W
+Rochester,MN,43,55' N,92,30' W
+Fairbault,MN,44,18' N,93,16' W
+Mankato,MN,44,9' N,93,59' W
+Minneapolis/St. Paul,MN,44,53' N,93,13' W
+Winona,MN,44,3' N,91,38' W
+Alexandria,MN,45,52' N,95,23' W
+St. Cloud,MN,45,35' N,94,11' W
+Willmar,MN,45,7' N,95,5' W
+Brainerd,MN,46,24' N,94,8' W
+Duluth,MN,46,50' N,92,11' W
+Fergus Falls,MN,46,16' N,96,4' W
+Bemidji,MN,47,31' N,94,56' W
+Virginia,MN,47,30' N,92,33' W
+International Falls,MN,48,34' N,93,23' W
+Poplar Bluff,MO,36,46' N,90,25' W
+Sikeston,MO,36,53' N,89,36' W
+Sikeston,MO,36,53' N,89,36' W
+Cape Girardeau,MO,37,14' N,89,35' W
+Farmington,MO,37,46' N,90,24' W
+Joplin,MO,37,9' N,94,30' W
+Rolla,MO,37,59' N,91,43' W
+Springfield,MO,37,14' N,93,23' W
+Columbia,MO,38,58' N,92,22' W
+Jefferson City,MO,38,34' N,92,11' W
+St. Louis,MO,38,45' N,90,23' W
+St. Louis CO,MO,38,39' N,90,38' W
+Sedalia--Whiteman,MO,38,43' N,93,33' W
+Hannibal,MO,39,42' N,91,21' W
+Kansas City,MO,39,7' N,94,35' W
+Mexico,MO,39,11' N,91,54' W
+Moberly,MO,39,24' N,92,26' W
+St. Joseph,MO,39,46' N,94,55' W
+Kirksville,MO,40,6' N,92,33' W
+Biloxi--Keesler,MS,30,25' N,88,55' W
+Hattiesburg,MS,31,16' N,89,15' W
+Laurel,MS,31,40' N,89,10' W
+Mccomb,MS,31,15' N,90,28' W
+Natchez,MS,31,33' N,91,23' W
+Jackson,MS,32,19' N,90,5' W
+Meridian,MS,32,20' N,88,45' W
+Vicksburg Co,MS,32,24' N,90,47' W
+Columbus,MS,33,39' N,88,27' W
+Greenville,MS,33,29' N,90,59' W
+Greenwood,MS,33,30' N,90,5' W
+Clarksdale,MS,34,12' N,90,34' W
+Tupelo,MS,34,16' N,88,46' W
+Billings,MT,45,48' N,108,32' W
+Bozeman,MT,45,47' N,111,9' W
+Butte,MT,45,57' N,112,30' W
+Livingstown,MT,45,42' N,110,26' W
+Helena,MT,46,36' N,112,0' W
+Miles City,MT,46,26' N,105,52' W
+Missoula,MT,46,55' N,114,5' W
+Glendive,MT,47,8' N,104,48' W
+Great Falls,MT,47,29' N,111,22' W
+Lewiston,MT,47,4' N,109,27' W
+Cut Bank,MT,48,37' N,112,22' W
+Glasgow,MT,48,25' N,106,32' W
+Havre,MT,48,34' N,109,40' W
+Kalispell,MT,48,18' N,114,16' W
+Jacksonville,NC,34,50' N,77,37' W
+Lumberton,NC,34,37' N,79,4' W
+Wilmington,NC,34,16' N,77,55' W
+Asheville,NC,35,26' N,82,32' W
+Charlotte,NC,35,13' N,80,56' W
+Durham,NC,35,52' N,78,47' W
+"Fayetteville, Pope",NC,35,10' N,79,1' W
+"Goldsboro,Seymour-Johnson",NC,35,20' N,77,58' W
+Greenville,NC,35,37' N,77,25' W
+Hickory,NC,35,45' N,81,23' W
+New Bern,NC,35,5' N,77,3' W
+Raleigh/Durham,NC,35,52' N,78,47' W
+Rocky Mount,NC,35,58' N,77,48' W
+Elizabeth City,NC,36,16' N,76,11' W
+Greensboro,NC,36,5' N,79,57' W
+Henderson,NC,36,22' N,78,25' W
+Winston-Salem,NC,36,8' N,80,13' W
+Bismarck,ND,46,46' N,100,45' W
+Dickinson,ND,46,48' N,102,48' W
+Fargo,ND,46,54' N,96,48' W
+Jamestown,ND,46,55' N,98,41' W
+Grand Forks,ND,47,57' N,97,24' W
+Devils Lake,ND,48,7' N,98,54' W
+Minot,ND,48,25' N,101,21' W
+Williston,ND,48,9' N,103,35' W
+Beatrice,NE,40,16' N,96,45' W
+Grand Island,NE,40,59' N,98,19' W
+Hastings,NE,40,36' N,98,26' W
+Kearney,NE,40,44' N,99,1' W
+Lincoln Co,NE,40,51' N,96,45' W
+McCook,NE,40,12' N,100,38' W
+Columbus,NE,41,28' N,97,20' W
+Fremont,NE,41,26' N,96,29' W
+Norfolk,NE,41,59' N,97,26' W
+North Platte,NE,41,8' N,100,41' W
+Omaha,NE,41,18' N,95,54' W
+Scottsbluff,NE,41,52' N,103,36' W
+Sidney,NE,41,13' N,103,6' W
+Chadron,NE,42,50' N,103,5' W
+Keene,NH,42,55' N,72,17' W
+"Manchester, Grenier",NH,42,56' N,71,26' W
+Claremont,NH,43,2' N,72,2' W
+Concord,NH,43,12' N,71,30' W
+Laconia,NH,43,3' N,71,3' W
+"Portsmouth, Pease",NH,43,4' N,70,49' W
+Berlin,NH,44,3' N,71,1' W
+Atlantic City CO,NJ,39,23' N,74,26' W
+Vineland,NJ,39,29' N,75,0' W
+Long Branch,NJ,40,19' N,74,1' W
+Newark,NJ,40,42' N,74,10' W
+New Brunswick,NJ,40,29' N,74,26' W
+Paterson,NJ,40,54' N,74,9' W
+Phillipsburg,NJ,40,41' N,75,11' W
+Trenton Co,NJ,40,13' N,74,46' W
+Holloman,NM,32,51' N,106,6' W
+Artesia,NM,32,46' N,104,23' W
+Carlsbad,NM,32,20' N,104,16' W
+Hobbs,NM,32,45' N,103,13' W
+Las Cruces,NM,32,18' N,106,55' W
+Silver City,NM,32,38' N,108,10' W
+"Roswell, Walker",NM,33,18' N,104,32' W
+Clovis,NM,34,23' N,103,19' W
+Socorro,NM,34,3' N,106,53' W
+Albuquerque,NM,35,3' N,106,37' W
+Gallup,NM,35,31' N,108,47' W
+Grants,NM,35,10' N,107,54' W
+Los Alamos,NM,35,52' N,106,19' W
+Santa Fe CO,NM,35,37' N,106,5' W
+Tucumcari,NM,35,11' N,103,36' W
+Farmington,NM,36,44' N,108,14' W
+Raton,NM,36,45' N,104,30' W
+Las Vegas,NV,36,5' N,115,10' W
+Tonopah,NV,38,4' N,117,5' W
+Carson City,NV,39,10' N,119,46' W
+Ely,NV,39,17' N,114,51' W
+Reno,NV,39,30' N,119,47' W
+Reno Co,NV,39,30' N,119,47' W
+Elko,NV,40,50' N,115,47' W
+Lovelock,NV,40,4' N,118,33' W
+Winnemucca,NV,40,54' N,117,48' W
+NYC-Central Park,NY,40,47' N,73,58' W
+NYC-Kennedy,NY,40,39' N,73,47' W
+NYC-La Guardia,NY,40,46' N,73,54' W
+Suffolk County,NY,40,51' N,72,38' W
+Kingston,NY,41,56' N,74,0' W
+"Newburgh, Stewart",NY,41,30' N,74,6' W
+Poughkeepsie,NY,41,38' N,73,55' W
+Albany,NY,42,45' N,73,48' W
+Albany Co,NY,42,39' N,73,45' W
+Auburn,NY,42,54' N,76,32' W
+Binghamton,NY,42,13' N,75,59' W
+Buffalo,NY,42,56' N,78,44' W
+Cortland,NY,42,36' N,76,11' W
+Dunkirk,NY,42,29' N,79,16' W
+Elmira,NY,42,10' N,76,54' W
+Geneva,NY,42,45' N,76,54' W
+Hornell,NY,42,21' N,77,42' W
+Ithaca,NY,42,27' N,76,29' W
+Jamestown,NY,42,7' N,79,14' W
+Olean,NY,42,14' N,78,22' W
+Oneonta,NY,42,31' N,75,4' W
+Schenectady,NY,42,51' N,73,57' W
+Batavia,NY,43,0' N,78,11' W
+Glens Falls,NY,43,20' N,73,37' W
+Gloversville,NY,43,2' N,74,21' W
+Lockport,NY,43,9' N,79,15' W
+Niagara Falls,NY,43,6' N,79,57' W
+Oswego Co,NY,43,28' N,76,33' W
+Rochester,NY,43,7' N,77,40' W
+"Rome, Griffiss",NY,43,14' N,75,25' W
+Syracuse,NY,43,7' N,76,7' W
+Utica,NY,43,9' N,75,23' W
+Watertown,NY,43,59' N,76,1' W
+Massena,NY,44,56' N,74,51' W
+Plattsburg,NY,44,39' N,73,28' W
+Portsmouth,OH,38,45' N,82,55' W
+Athens,OH,39,20' N,82,6' W
+Chillicothe,OH,39,21' N,83,0' W
+Cincinnati Co,OH,39,9' N,84,31' W
+Dayton,OH,39,54' N,84,13' W
+Hamilton,OH,39,24' N,84,35' W
+Lancaster,OH,39,44' N,82,38' W
+Middletown,OH,39,31' N,84,25' W
+Springfield,OH,39,50' N,83,50' W
+Zanesville,OH,39,57' N,81,54' W
+Akron-Canton,OH,40,55' N,81,26' W
+Cambridge,OH,40,4' N,81,35' W
+Columbus,OH,40,0' N,82,53' W
+Lima,OH,40,42' N,84,2' W
+Mansfield,OH,40,49' N,82,31' W
+Marion,OH,40,36' N,83,10' W
+Newark,OH,40,1' N,82,28' W
+Steubenville,OH,40,23' N,80,38' W
+Wooster,OH,40,47' N,81,55' W
+Ashtabula,OH,41,51' N,80,48' W
+Bowling Green,OH,41,23' N,83,38' W
+Cleveland,OH,41,24' N,81,51' W
+Defiance,OH,41,17' N,84,23' W
+Findlay,OH,41,1' N,83,40' W
+Fremont,OH,41,20' N,83,7' W
+Norwalk,OH,41,16' N,82,37' W
+Sandusky Co,OH,41,27' N,82,43' W
+Toledo,OH,41,36' N,83,48' W
+Warren,OH,41,20' N,80,51' W
+Youngstown,OH,41,16' N,80,40' W
+Ada,OK,34,47' N,96,41' W
+Altus,OK,34,39' N,99,16' W
+Ardmore,OK,34,18' N,97,1' W
+Lawton,OK,34,34' N,98,25' W
+McAlester,OK,34,50' N,95,55' W
+Chickasha,OK,35,3' N,97,55' W
+Muskogee,OK,35,40' N,95,22' W
+Norman,OK,35,15' N,97,29' W
+Oklahoma City,OK,35,24' N,97,36' W
+Seminole,OK,35,14' N,96,40' W
+Bartlesville,OK,36,45' N,96,0' W
+"Enid, Vance",OK,36,21' N,97,55' W
+Ponca City,OK,36,44' N,97,6' W
+Stillwater,OK,36,10' N,97,5' W
+Tulsa,OK,36,12' N,95,54' W
+Woodward,OK,36,36' N,99,31' W
+Grants Pass,OR,42,26' N,123,19' W
+Klamath Falls,OR,42,9' N,121,44' W
+Medford,OR,42,22' N,122,52' W
+Roseburg,OR,43,14' N,123,22' W
+Albany,OR,44,38' N,123,7' W
+Baker,OR,44,50' N,117,49' W
+Bend,OR,44,4' N,121,19' W
+Corvallis,OR,44,30' N,123,17' W
+Eugene,OR,44,7' N,123,13' W
+Salem,OR,44,55' N,123,1' W
+Pendleton,OR,45,41' N,118,51' W
+Portland,OR,45,36' N,122,36' W
+Portland Co,OR,45,32' N,122,40' W
+The Dalles,OR,45,36' N,121,12' W
+Astoria,OR,46,9' N,123,53' W
+Chambersburg,PA,39,56' N,77,38' W
+Philadelphia,PA,39,53' N,75,15' W
+Uniontown,PA,39,55' N,79,43' W
+West Chester,PA,39,58' N,75,38' W
+York,PA,39,55' N,76,45' W
+Allentown,PA,40,39' N,75,26' W
+Altoona Co,PA,40,18' N,78,19' W
+Butler,PA,40,52' N,79,54' W
+Harrisburg,PA,40,12' N,76,46' W
+Johnstown,PA,40,19' N,78,50' W
+Lancaster,PA,40,7' N,76,18' W
+Pittsburgh,PA,40,30' N,80,13' W
+Pittsburgh Co,PA,40,27' N,80,0' W
+Reading Co,PA,40,20' N,75,38' W
+State College,PA,40,48' N,77,52' W
+Sunbury,PA,40,53' N,76,46' W
+Meadville,PA,41,38' N,80,10' W
+New Castle,PA,41,1' N,80,22' W
+Scranton/Wilkes-Barre,PA,41,20' N,75,44' W
+Warren,PA,41,51' N,79,8' W
+Williamsport,PA,41,15' N,76,55' W
+Erie,PA,42,5' N,80,11' W
+Newport,RI,41,30' N,71,20' W
+Providence,RI,41,44' N,71,26' W
+Charleston,SC,32,54' N,80,2' W
+Charleston Co,SC,32,54' N,79,58' W
+Columbia,SC,33,57' N,81,7' W
+Georgetown,SC,33,23' N,79,17' W
+Orangeburg,SC,33,30' N,80,52' W
+"Sumter, Shaw",SC,33,54' N,80,22' W
+Anderson,SC,34,30' N,82,43' W
+Florence,SC,34,11' N,79,43' W
+Greenville,SC,34,54' N,82,13' W
+Greenwood,SC,34,10' N,82,7' W
+Rock Hill,SC,34,59' N,80,58' W
+Spartanburg,SC,34,58' N,82,0' W
+Yankton,SD,42,55' N,97,23' W
+Mitchell,SD,43,41' N,98,1' W
+Sioux Falls,SD,43,34' N,96,44' W
+Brookings,SD,44,18' N,96,48' W
+Huron,SD,44,23' N,98,13' W
+Pierre,SD,44,23' N,100,17' W
+Rapid City,SD,44,3' N,103,4' W
+Watertown,SD,44,55' N,97,9' W
+Aberdeen,SD,45,27' N,98,26' W
+Murfreesboro,TN,34,55' N,86,28' W
+Athens,TN,35,26' N,84,35' W
+Chattanooga,TN,35,2' N,85,12' W
+Columbia,TN,35,38' N,87,2' W
+Jackson,TN,35,36' N,88,55' W
+Knoxville,TN,35,49' N,83,59' W
+Memphis,TN,35,3' N,90,0' W
+Tullahoma,TN,35,23' N,86,5' W
+Bristol-Tri City,TN,36,29' N,82,24' W
+Clarksville,TN,36,33' N,87,22' W
+Dyersburg,TN,36,1' N,89,24' W
+Greenville,TN,36,4' N,82,50' W
+Nashville,TN,36,7' N,86,41' W
+Brownsville,TX,25,54' N,97,26' W
+Harlingen,TX,26,14' N,97,39' W
+Mcallen,TX,26,12' N,98,13' W
+Alice,TX,27,44' N,98,2' W
+Corpus Christi,TX,27,46' N,97,30' W
+Laredo,TX,27,32' N,99,27' W
+Beeville,TX,28,22' N,97,40' W
+Eagle Pass,TX,28,52' N,100,32' W
+Victoria,TX,28,51' N,96,55' W
+Bay City,TX,29,0' N,95,58' W
+Beaumont,TX,29,57' N,94,1' W
+"Del Rio, Laughlin",TX,29,22' N,100,47' W
+Galveston,TX,29,18' N,94,48' W
+Houston,TX,29,58' N,95,21' W
+Houston Co,TX,29,59' N,95,22' W
+Port Arthur,TX,29,57' N,94,1' W
+San Antonio,TX,29,32' N,98,28' W
+Austin,TX,30,18' N,97,42' W
+Bryan,TX,30,40' N,96,33' W
+Huntsville,TX,30,43' N,95,33' W
+Brownwood,TX,31,48' N,98,57' W
+El Paso,TX,31,48' N,106,24' W
+"Killeen, Robert Gray AAF",TX,31,5' N,97,41' W
+Lufkin,TX,31,25' N,94,48' W
+Midland,TX,31,57' N,102,11' W
+Palestine Co,TX,31,47' N,95,38' W
+Pecos,TX,31,25' N,103,30' W
+Goodfellow,TX,31,26' N,100,24' W
+Temple,TX,31,6' N,97,21' W
+Waco,TX,31,37' N,97,13' W
+Abilene,TX,32,25' N,99,41' W
+Big Spring,TX,32,18' N,101,27' W
+Corsicana,TX,32,5' N,96,28' W
+Dallas,TX,32,51' N,96,51' W
+Fort Worth,TX,32,50' N,97,3' W
+Lamesa,TX,32,42' N,101,56' W
+Longview,TX,32,28' N,94,44' W
+Mineral Wells,TX,32,47' N,98,4' W
+Snyder,TX,32,43' N,100,55' W
+Tyler,TX,32,21' N,95,16' W
+Denton,TX,33,12' N,97,6' W
+Greenville,TX,33,4' N,96,3' W
+Lubbock,TX,33,39' N,101,49' W
+"Sherman, Perrin",TX,33,43' N,96,40' W
+Wichita Falls,TX,33,58' N,98,29' W
+Plainview,TX,34,11' N,101,42' W
+Vernon,TX,34,10' N,99,18' W
+Amarillo,TX,35,14' N,100,42' W
+Pampa,TX,35,32' N,100,59' W
+Cedar City,UT,37,42' N,113,6' W
+St George Co,UT,37,2' N,113,31' W
+Moab,UT,38,36' N,109,36' W
+Richfield,UT,38,46' N,112,5' W
+Price,UT,39,37' N,110,50' W
+Provo,UT,40,13' N,111,43' W
+Salt Lake City,UT,40,46' N,111,58' W
+Vernal,UT,40,27' N,109,31' W
+Logan,UT,41,45' N,111,49' W
+Ogden,UT,41,12' N,112,1' W
+Danville,VA,36,34' N,79,20' W
+Norfolk,VA,36,54' N,76,12' W
+Lynchburg,VA,37,20' N,79,12' W
+Petersburg,VA,37,11' N,77,31' W
+Richmond,VA,37,30' N,77,20' W
+Roanoke,VA,37,19' N,79,58' W
+Andrews,VA,38,5' N,76,5' W
+"Washington, D.C.",VA,38,51' N,77,2' W
+Charlottesville,VA,38,2' N,78,31' W
+Fredericksburg,VA,38,18' N,77,28' W
+Harrisonburg,VA,38,27' N,78,54' W
+Staunton,VA,38,16' N,78,54' W
+Winchester,VA,39,12' N,78,10' W
+Rutland,VT,43,36' N,72,58' W
+Barre,VT,44,12' N,72,31' W
+Burlington,VT,44,28' N,73,9' W
+Aberdeen,WA,46,59' N,123,49' W
+Kennewick,WA,46,13' N,119,8' W
+Longview,WA,46,10' N,122,56' W
+Olympia,WA,46,58' N,122,54' W
+Walla Walla,WA,46,6' N,118,17' W
+Yakima,WA,46,34' N,120,32' W
+Bremerton,WA,47,34' N,122,40' W
+Ellensburg,WA,47,2' N,120,31' W
+"Everett, Paine",WA,47,55' N,122,17' W
+"Moses Lake, Larson",WA,47,12' N,119,19' W
+Seattle-Boeing Field,WA,47,32' N,122,18' W
+Seattle Co,WA,47,39' N,122,18' W
+Seattle-Tacoma,WA,47,27' N,122,18' W
+Spokane,WA,47,38' N,117,31' W
+"Tacoma, McChord",WA,47,15' N,122,30' W
+Wenatchee,WA,47,25' N,120,19' W
+Bellingham,WA,48,48' N,122,32' W
+Port Angeles,WA,48,7' N,123,26' W
+Beloit,WI,42,30' N,89,2' W
+Milwaukee,WI,42,57' N,87,54' W
+Racine,WI,42,43' N,87,51' W
+Fond Du Lac,WI,43,48' N,88,27' W
+La Crosse,WI,43,52' N,91,15' W
+Madison,WI,43,8' N,89,20' W
+Sheboygan,WI,43,45' N,87,43' W
+Waukesha,WI,43,1' N,88,14' W
+Appleton,WI,44,15' N,88,23' W
+Eau Claire,WI,44,52' N,91,29' W
+Green Bay,WI,44,29' N,88,8' W
+Manitowoc,WI,44,6' N,87,41' W
+Stevens Point,WI,44,30' N,89,34' W
+Wausau,WI,44,55' N,89,37' W
+Marinette,WI,45,6' N,87,38' W
+Ashland,WI,46,34' N,90,58' W
+Beckley,WV,37,47' N,81,7' W
+Bluefield,WV,37,18' N,81,13' W
+Charleston,WV,38,22' N,81,36' W
+Elkins,WV,38,53' N,79,51' W
+Huntington Co,WV,38,25' N,82,30' W
+Clarksburg,WV,39,16' N,80,21' W
+Martinsburg,WV,39,24' N,77,59' W
+Morgantown,WV,39,39' N,79,55' W
+Parkersburg Co,WV,39,16' N,81,34' W
+Wheeling,WV,40,7' N,80,42' W
+Cheyenne,WY,41,9' N,104,49' W
+Evanston,WY,41,16' N,110,57' W
+Laramie,WY,41,19' N,105,41' W
+Rawlins,WY,41,48' N,107,12' W
+Rock Springs,WY,41,36' N,109,0' W
+Casper,WY,42,55' N,106,28' W
+Lander,WY,42,49' N,108,44' W
+Torrington,WY,42,5' N,104,13' W
+Newcastle,WY,43,51' N,104,13' W
+Cody,WY,44,33' N,109,4' W
+Sheridan,WY,44,46' N,106,58' W
