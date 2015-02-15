@@ -1,0 +1,1073 @@
+{"type":"FeatureCollection","features":[
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+      -84.4281,
+      33.6367
+      ]
+    },
+    "properties": {
+      "airport_code": "ATL",
+      "2013_traffic_rank": 1,
+      "name": "Hartsfield/Jackson Atlanta International Airport",
+      "city": "Atlanta",
+      "state": "GA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.4072,
+        33.9425
+      ]
+    },
+    "properties": {
+      "airport_code": "LAX",
+      "2013_traffic_rank": 2,
+      "name": "Los Angeles International Airport",
+      "city": "Los Angeles",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.9067,
+        41.9808
+      ]
+    },
+    "properties": {
+      "airport_code": "ORD",
+      "2013_traffic_rank": 3,
+      "name": "O'Hare International Airport",
+      "city": "Chicago",
+      "state": "IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.0381,
+        32.8969
+      ]
+    },
+    "properties": {
+      "airport_code": "DFW",
+      "2013_traffic_rank": 4,
+      "name": "Dallas/Fort Worth International Airport",
+      "city": "Dallas/Fort Worth",
+      "state": "TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -104.6731,
+        39.8617
+      ]
+    },
+    "properties": {
+      "airport_code": "DEN",
+      "2013_traffic_rank": 5,
+      "name": "Denver International Airport",
+      "city": "Denver",
+      "state": "CO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.7789,
+        40.6397
+      ]
+    },
+    "properties": {
+      "airport_code": "JFK",
+      "2013_traffic_rank": 6,
+      "name": "John F. Kennedy International Airport",
+      "city": "New York",
+      "state": "NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.375,
+        37.6189
+      ]
+    },
+    "properties": {
+      "airport_code": "SFO",
+      "2013_traffic_rank": 7,
+      "name": "San Francisco International Airport",
+      "city": "San Francisco",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.9431,
+        35.2139
+      ]
+    },
+    "properties": {
+      "airport_code": "CLT",
+      "2013_traffic_rank": 8,
+      "name": "Charlotte Douglas International Airport",
+      "city": "Charlotte",
+      "state": "NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -115.1522,
+        36.08
+      ]
+    },
+    "properties": {
+      "airport_code": "LAS",
+      "2013_traffic_rank": 9,
+      "name": "McCarran International Airport",
+      "city": "Las Vegas",
+      "state": "NV"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -112.0117,
+        33.4342
+      ]
+    },
+    "properties": {
+      "airport_code": "PHX",
+      "2013_traffic_rank": 10,
+      "name": "Phoenix Sky Harbor International Airport",
+      "city": "Phoenix",
+      "state": "AZ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.2906,
+        25.7932
+      ]
+    },
+    "properties": {
+      "airport_code": "MIA",
+      "2013_traffic_rank": 11,
+      "name": "Miami International Airport",
+      "city": "Miami",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.3414,
+        29.9844
+      ]
+    },
+    "properties": {
+      "airport_code": "IAH",
+      "2013_traffic_rank": 12,
+      "name": "George Bush Intercontinental Airport",
+      "city": "Houston",
+      "state": "TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -74.1686,
+        40.6925
+      ]
+    },
+    "properties": {
+      "airport_code": "EWR",
+      "2013_traffic_rank": 13,
+      "name": "Newark Liberty International Airport",
+      "city": "Newark/New York",
+      "state": "NJ"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.3089,
+        28.4294
+      ]
+    },
+    "properties": {
+      "airport_code": "MCO",
+      "2013_traffic_rank": 14,
+      "name": "Orlando International Airport",
+      "city": "Orlando",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.3117,
+        47.45
+      ]
+    },
+    "properties": {
+      "airport_code": "SEA",
+      "2013_traffic_rank": 15,
+      "name": "Seattle/Tacoma International Airport",
+      "city": "Seattle",
+      "state": "WA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -93.2217,
+        44.8819
+      ]
+    },
+    "properties": {
+      "airport_code": "MSP",
+      "2013_traffic_rank": 16,
+      "name": "Minneapolisâ€“Saint Paul International Airport",
+      "city": "Minneapolis/St. Paul",
+      "state": "MN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -83.3533,
+        42.2125
+      ]
+    },
+    "properties": {
+      "airport_code": "DTW",
+      "2013_traffic_rank": 17,
+      "name": "Detroit Metropolitan Wayne County Airport",
+      "city": "Detroit",
+      "state": "MI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.0064,
+        42.3631
+      ]
+    },
+    "properties": {
+      "airport_code": "BOS",
+      "2013_traffic_rank": 18,
+      "name": "Logan International Airport",
+      "city": "Boston",
+      "state": "MA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -75.2408,
+        39.8722
+      ]
+    },
+    "properties": {
+      "airport_code": "PHL",
+      "2013_traffic_rank": 19,
+      "name": "Philadelphia International Airport",
+      "city": "Philadelphia",
+      "state": "PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -73.8725,
+        40.7772
+      ]
+    },
+    "properties": {
+      "airport_code": "LGA",
+      "2013_traffic_rank": 20,
+      "name": "LaGuardia Airport",
+      "city": "New York",
+      "state": "NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.1528,
+        26.0726
+      ]
+    },
+    "properties": {
+      "airport_code": "FLL",
+      "2013_traffic_rank": 21,
+      "name": "Fort Lauderdaleâ€“Hollywood International Airport",
+      "city": "Fort Lauderdale",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -76.6683,
+        39.1753
+      ]
+    },
+    "properties": {
+      "airport_code": "BWI",
+      "2013_traffic_rank": 22,
+      "name": "Baltimore/Washington International Airport",
+      "city": "Baltimore/Washington, D.C.",
+      "state": "MD"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.46,
+        38.9475
+      ]
+    },
+    "properties": {
+      "airport_code": "IAD",
+      "2013_traffic_rank": 23,
+      "name": "Washington Dulles International Airport",
+      "city": "Washington, D.C.",
+      "state": "VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.7525,
+        41.7861
+      ]
+    },
+    "properties": {
+      "airport_code": "MDW",
+      "2013_traffic_rank": 24,
+      "name": "Midway International Airport",
+      "city": "Chicago",
+      "state": "IL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -77.0378,
+        38.8522
+      ]
+    },
+    "properties": {
+      "airport_code": "DCA",
+      "2013_traffic_rank": 25,
+      "name": "Ronald Reagan Washington National Airport",
+      "city": "Washington, D.C.",
+      "state": "VA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -111.9778,
+        40.7883
+      ]
+    },
+    "properties": {
+      "airport_code": "SLC",
+      "2013_traffic_rank": 26,
+      "name": "Salt Lake City International Airport",
+      "city": "Salt Lake City",
+      "state": "UT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -157.9225,
+        21.3187
+      ]
+    },
+    "properties": {
+      "airport_code": "HNL",
+      "2013_traffic_rank": 27,
+      "name": "Honolulu International Airport",
+      "city": "Honolulu",
+      "state": "HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.1897,
+        32.7336
+      ]
+    },
+    "properties": {
+      "airport_code": "SAN",
+      "2013_traffic_rank": 28,
+      "name": "San Diego International Airport",
+      "city": "San Diego",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.5333,
+        27.9756
+      ]
+    },
+    "properties": {
+      "airport_code": "TPA",
+      "2013_traffic_rank": 29,
+      "name": "Tampa International Airport",
+      "city": "Tampa",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.5975,
+        45.5883
+      ]
+    },
+    "properties": {
+      "airport_code": "PDX",
+      "2013_traffic_rank": 30,
+      "name": "Portland International Airport",
+      "city": "Portland",
+      "state": "OR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -90.37,
+        38.7486
+      ]
+    },
+    "properties": {
+      "airport_code": "STL",
+      "2013_traffic_rank": 31,
+      "name": "Lambert/St. Louis International Airport",
+      "city": "St. Louis",
+      "state": "MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.2789,
+        29.6456
+      ]
+    },
+    "properties": {
+      "airport_code": "HOU",
+      "2013_traffic_rank": 32,
+      "name": "William P. Hobby Airport",
+      "city": "Houston",
+      "state": "TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.6783,
+        36.1244
+      ]
+    },
+    "properties": {
+      "airport_code": "BNA",
+      "2013_traffic_rank": 33,
+      "name": "Nashville International Airport",
+      "city": "Nashville",
+      "state": "TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -97.67,
+        30.1944
+      ]
+    },
+    "properties": {
+      "airport_code": "AUS",
+      "2013_traffic_rank": 34,
+      "name": "Austin-Bergstrom International Airport",
+      "city": "Austin",
+      "state": "TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -94.7139,
+        39.2975
+      ]
+    },
+    "properties": {
+      "airport_code": "MCI",
+      "2013_traffic_rank": 35,
+      "name": "Kansas City International Airport",
+      "city": "Kansas City",
+      "state": "MO"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -122.2208,
+        37.7214
+      ]
+    },
+    "properties": {
+      "airport_code": "OAK",
+      "2013_traffic_rank": 36,
+      "name": "Oakland International Airport",
+      "city": "Oakland",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -90.2581,
+        29.9933
+      ]
+    },
+    "properties": {
+      "airport_code": "MSY",
+      "2013_traffic_rank": 37,
+      "name": "Louis Armstrong New Orleans International Airport",
+      "city": "New Orleans",
+      "state": "LA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.8683,
+        33.6756
+      ]
+    },
+    "properties": {
+      "airport_code": "SNA",
+      "2013_traffic_rank": 38,
+      "name": "John Wayne Airport",
+      "city": "Santa Ana",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.7875,
+        35.8778
+      ]
+    },
+    "properties": {
+      "airport_code": "RDU",
+      "2013_traffic_rank": 39,
+      "name": "Raleigh-Durham International Airport",
+      "city": "Raleigh",
+      "state": "NC"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.855,
+        41.4094
+      ]
+    },
+    "properties": {
+      "airport_code": "CLE",
+      "2013_traffic_rank": 40,
+      "name": "Cleveland Hopkins International Airport",
+      "city": "Cleveland",
+      "state": "OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.9292,
+        37.3628
+      ]
+    },
+    "properties": {
+      "airport_code": "SJC",
+      "2013_traffic_rank": 41,
+      "name": "San Jose International Airport",
+      "city": "San Jose",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -121.5908,
+        38.6956
+      ]
+    },
+    "properties": {
+      "airport_code": "SMF",
+      "2013_traffic_rank": 42,
+      "name": "Sacramento International Airport",
+      "city": "Sacramento",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -66.0019,
+        18.4394
+      ]
+    },
+    "properties": {
+      "airport_code": "SJU",
+      "2013_traffic_rank": 43,
+      "name": "Luis Muanoz Marin International Airport",
+      "city": "San Juan",
+      "state": "PR"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -96.8517,
+        32.8472
+      ]
+    },
+    "properties": {
+      "airport_code": "DAL",
+      "2013_traffic_rank": 44,
+      "name": "Dallas Love Field",
+      "city": "Dallas",
+      "state": "TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -98.4697,
+        29.5336
+      ]
+    },
+    "properties": {
+      "airport_code": "SAT",
+      "2013_traffic_rank": 45,
+      "name": "San Antonio International Airport",
+      "city": "San Antonio",
+      "state": "TX"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.2328,
+        40.4914
+      ]
+    },
+    "properties": {
+      "airport_code": "PIT",
+      "2013_traffic_rank": 46,
+      "name": "Pittsburgh International Airport",
+      "city": "Pittsburgh",
+      "state": "PA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.7553,
+        26.5362
+      ]
+    },
+    "properties": {
+      "airport_code": "RSW",
+      "2013_traffic_rank": 47,
+      "name": "Southwest Florida International Airport",
+      "city": "Fort Myers",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -86.2947,
+        39.7172
+      ]
+    },
+    "properties": {
+      "airport_code": "IND",
+      "2013_traffic_rank": 48,
+      "name": "Indianapolis International Airport",
+      "city": "Indianapolis",
+      "state": "IN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -87.8967,
+        42.9472
+      ]
+    },
+    "properties": {
+      "airport_code": "MKE",
+      "2013_traffic_rank": 49,
+      "name": "General Mitchell International Airport",
+      "city": "Milwaukee",
+      "state": "WI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -82.8919,
+        39.9981
+      ]
+    },
+    "properties": {
+      "airport_code": "CMH",
+      "2013_traffic_rank": 50,
+      "name": "Port Columbus International Airport",
+      "city": "Columbus",
+      "state": "OH"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -156.4306,
+        20.8986
+      ]
+    },
+    "properties": {
+      "airport_code": "OGG",
+      "2013_traffic_rank": 51,
+      "name": "Kahului Airport",
+      "city": "Kahului",
+      "state": "HI"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -80.0956,
+        26.6832
+      ]
+    },
+    "properties": {
+      "airport_code": "PBI",
+      "2013_traffic_rank": 52,
+      "name": "Palm Beach International Airport",
+      "city": "West Palm Beach",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -84.6678,
+        39.0489
+      ]
+    },
+    "properties": {
+      "airport_code": "CVG",
+      "2013_traffic_rank": 53,
+      "name": "Cincinnati/Northern Kentucky International Airport",
+      "city": "Cincinnati",
+      "state": "KY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -72.6833,
+        41.9389
+      ]
+    },
+    "properties": {
+      "airport_code": "BDL",
+      "2013_traffic_rank": 54,
+      "name": "Bradley International Airport",
+      "city": "Hartford",
+      "state": "CT"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -78.7322,
+        42.9406
+      ]
+    },
+    "properties": {
+      "airport_code": "BUF",
+      "2013_traffic_rank": 55,
+      "name": "Buffalo Niagara International Airport",
+      "city": "Buffalo",
+      "state": "NY"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -81.6878,
+        30.4942
+      ]
+    },
+    "properties": {
+      "airport_code": "JAX",
+      "2013_traffic_rank": 56,
+      "name": "Jacksonville International Airport",
+      "city": "Jacksonville",
+      "state": "FL"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -106.6092,
+        35.0403
+      ]
+    },
+    "properties": {
+      "airport_code": "ABQ",
+      "2013_traffic_rank": 57,
+      "name": "Albuquerque International Sunport",
+      "city": "Albuquerque",
+      "state": "NM"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -149.9964,
+        61.1744
+      ]
+    },
+    "properties": {
+      "airport_code": "ANC",
+      "2013_traffic_rank": 58,
+      "name": "Ted Stevens Anchorage International Airport",
+      "city": "Anchorage",
+      "state": "AK"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -89.9767,
+        35.0425
+      ]
+    },
+    "properties": {
+      "airport_code": "MEM",
+      "2013_traffic_rank": 59,
+      "name": "Memphis International Airport",
+      "city": "Memphis",
+      "state": "TN"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -95.8942,
+        41.3031
+      ]
+    },
+    "properties": {
+      "airport_code": "OMA",
+      "2013_traffic_rank": 60,
+      "name": "Eppley Airfield",
+      "city": "Omaha",
+      "state": "NE"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -117.6011,
+        34.0561
+      ]
+    },
+    "properties": {
+      "airport_code": "ONT",
+      "2013_traffic_rank": 61,
+      "name": "Ontario International Airport",
+      "city": "Ontario",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -118.3586,
+        34.2006
+      ]
+    },
+    "properties": {
+      "airport_code": "BUR",
+      "2013_traffic_rank": 62,
+      "name": "Bob Hope Airport",
+      "city": "Burbank",
+      "state": "CA"
+    }
+  },
+  {
+    "type": "Feature",
+    "geometry": {
+      "type": "Point",
+      "coordinates": [
+        -71.4283,
+        41.7239
+      ]
+    },
+    "properties": {
+      "airport_code": "PVD",
+      "2013_traffic_rank": 63,
+      "name": "Theodore Francis Green State Airport",
+      "city": "Providence",
+      "state": "RI"
+    }
+  }
+]}
